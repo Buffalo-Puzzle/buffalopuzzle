@@ -24,7 +24,7 @@ Your device's operating system or Apple may process certain technical or diagnos
 
 ### 1.3 Information You Provide Through Customer Support
 
-If you contact us at buffalopuzzle@gmail.com, we may receive your email address and any information you voluntarily include in your message.
+If you contact us at support@buffalopuzzle.com, we may receive your email address and any information you voluntarily include in your message.
 
 We use this information solely to respond to your inquiry, provide assistance, and address the issue you report.
 
@@ -75,7 +75,7 @@ We take reasonable steps to protect information that we receive directly. Howeve
 
 Depending on your location and applicable law, you may have the right to request access to, correction of, or deletion of personal information that we hold about you.
 
-You may contact us at buffalopuzzle@gmail.com to exercise these rights or ask questions about our privacy practices.
+You may contact us at support@buffalopuzzle.com to exercise these rights or ask questions about our privacy practices.
 
 Because game progress is stored locally on your device and is not transmitted to our servers, we generally cannot access, retrieve, or remotely delete that progress. You can manage locally stored game data through any available in-game controls or your device's settings.
 
@@ -87,7 +87,7 @@ Buffalo Puzzle is intended for a general audience and is not specifically direct
 
 We do not knowingly collect personal information from children through the App. The App does not provide user accounts, online chat, or a mechanism for users to submit personal information directly within the game.
 
-If you believe that a child has provided personal information to us through customer support, please contact us at buffalopuzzle@gmail.com. We will review the request and take appropriate steps to delete the information where required by applicable law.
+If you believe that a child has provided personal information to us through customer support, please contact us at support@buffalopuzzle.com. We will review the request and take appropriate steps to delete the information where required by applicable law.
 
 If the App's intended audience or data practices change, we will review and update this section as necessary.
 
@@ -109,5 +109,5 @@ If you have questions, concerns, or requests regarding this Privacy Policy, plea
 
 **Developer:** Independent Individual Developer  
 **App Name:** Buffalo Puzzle  
-**Email:** buffalopuzzle@gmail.com
+**Email:** support@buffalopuzzle.com
 
