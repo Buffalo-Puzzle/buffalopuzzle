@@ -10,7 +10,7 @@ This Privacy Policy explains how Buffalo Puzzle handles information when you dow
 
 ### 1.1 Game Data Stored on Your Device
 
-Buffalo Puzzle is designed to operate without an account or a developer-operated server. Game progress, scores, and preferences are stored locally on your device.Email: [
+Buffalo Puzzle is designed to operate without an account or a developer-operated server. Game progress, scores, and preferences are stored locally on your device.
 
 We do not intentionally collect or transmit your local game progress, scores, or preferences to our own servers. We do not provide cloud synchronization or online game progress storage.
 
